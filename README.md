@@ -24,7 +24,7 @@ This app is a simple Body Mass Index Calculator, inspired by the beautiful desig
 ## Some screen captures
 
 ### Screen 1
-![](https://github.com/ivanseibel/images/blob/master/bmi-calculator-flutter/Screenshot_1579284824.png)
+![](https://github.com/ivanseibel/assets/blob/master/img/bmi-calculator-flutter/Screenshot_1579284824.png)
 
 ### Screen 2
-![](https://github.com/ivanseibel/images/blob/master/bmi-calculator-flutter/Screenshot_1579284918.png)
+![](https://github.com/ivanseibel/assets/blob/master/img/bmi-calculator-flutter/Screenshot_1579284918.png)
