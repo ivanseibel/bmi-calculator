@@ -22,5 +22,9 @@ This app is a simple Body Mass Index Calculator, inspired by the beautiful desig
 - Understand the difference between const and final in Dart and when to use each.
 
 ## Some screen captures
+
+### Screen 1
 ![](https://github.com/ivanseibel/images/blob/master/bmi-calculator-flutter/Screenshot_1579284824.png)
+
+### Screen 2
 ![](https://github.com/ivanseibel/images/blob/master/bmi-calculator-flutter/Screenshot_1579284918.png)
